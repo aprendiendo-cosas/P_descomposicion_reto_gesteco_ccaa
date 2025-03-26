@@ -6,43 +6,88 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/imagenes/portada.png)
 
 
 
 ## Objetivos 
 
-Esta sesión implica poner en práctica la primera fase para el abordaje de retos socioecológicos complejos. Como casi siempre que empezamos algo en la vida, la primera etapa consiste en familiarizarnos con el asunto y aprender un poco más sobre aspectos temáticos asociados al reto. Así, los objetivos de esta etapa son:
+En esta fase abordaremos la descomposición del reto complejo asignado en componentes o problemas más manejables. La descomposición funcional es una técnica bien documentada para abordar problemas complejos. La evidencia demuestra quqe dividir un problema en partes más pequeñas ayuda a mejorar la comprensión y facilita la identificación de soluciones viables. Los objetivos concretos de esta fase son:
 
-- Comprobar que el reto socioecológico propuesto es, en efecto, un problema complejo. 
-- Identificar posibles lagunas de conocimiento científico técnico sobre el reto en cuestión.
-- Esbozar el contexto histórico y actual del problema asignado.
-- Identificar brevemente los factores políticos, económicos y ecológicos que le afectan.
-- Encontrar documentación sobre el problema asinado.
+- Identificar los componentes principales del problema asignado.
+- Utilizar la información recopilada hasta ahora para descomponer el reto en otros problemas más sencillos de formular.
+- Conectar los problemas más sencillos con cuestiones ecológicas, sociales o ambientales ya conocidas. 
+- Conectar los problemas identificados con los actores ya identificados en los pasos anteriores y con sus intereses.
 
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase consta de dos etapas diferentes. La primera implica un proceso de evocación del conocimiento ya existente sobre los retos asignados. Esto nos ayudará a colocarnos en el ámbito de la incompetencia consciente. Es decir, nos permitirá identificar qué cosas no sabemos del tema en cuestión y deberíamos saber. La segunda fase consiste en buscar información relevante sobre el problema, bien sea en forma de artículos científicos, informes, imágenes, etc.
+La metodología para trabajar en esta fase se basa en los siguientes pasos que se describen con detalle en las siguientes secciones:
 
-### Debate en grupo para reconocer y contextualizar el problema
++ Identificación de componentes principales.
++ Caracterización de componentes principales.
++ Identificación de obstáculos.
 
-Durante la salida a Hornachuelos dedicamos un rato a que, en debate grupal, se hiciera un trabajo de contextualización del problema. Los grupos trataron de evaluar en qué medida el reto propuesto es o no un problema complejo. Se estudiaron aspectos como el contexto histórico, factores sociales implicados, etc. Cada equipo generó un pequeño texto que resumía los consensos alcanzados. Compartimos ese texto en público. El profesor fue dando ideas sobre cómo mejorar la aproximación. Además, se identificaron posibles carencias que tenía el grupo con relación a cuestiones científicas asociadas al reto asignado. 
+### Identificación de componentes principales
+
+En esta fase deberemos dividir el problema complejo general en otros más sencillos que sean más manejables o acotables. Esto nos ayudará a identificar aspectos del reto que pueden ser abordados con el conocimiento del que disponemos. En la identificación de estos "subproblemas" juegan un papel importante los actores identificados en la fase anterior.
+
+A modo de ejemplo, identificaremos los componentes principales del siguiente reto complejo: ¿Cómo podemos mejorar la motivación de los estudiantes de ciencias ambientales de la UCO? 
+
+Para identificar componentes de este reto debemos preguntarnos por las variables o elementos que participan en dicho reto. En este caso podrían ser los siguientes:
+
+- La motivación depende del interés previo en la titulación. Por tanto, un problema más manejable sería: *El porcentaje de estudiantes que eligen esta titulación en primer lugar es bajo.*
+- También sabemos que la motivación baja si los estudiantes no son tratados adecuadamente por algunos profesores. Por tanto, un problema manejable sería: *Algunos profesores no tienen suficiente estima por los estudiantes de ambientales.*
+- Por último (hay muchos más, pero en este ejemplo nos quedaremos aquí), sabemos que la sobrecarga de trabajo con poco impacto en el aprendizaje baja la motivación. Tener muchas tareas hace que estudiar se convierta en una carrera de obstáculos. Por tanto, un problema más manejable sería: *Hay poca coordinación en las asignaturas del grado y eso implica sobrecarga inecesaria de tareas.* 
+
+En el caso de los retos socioecológicos que tenéis que abordar, se podría seguir un proceso parecido.
 
 
 > [!TIP] 
-> *El resultado de esta estapa es un texto describiendo y contextualizando el problema. Este texto evolucionará durante el trabajo general. Así que es importante no borrar las sucesivas versiones que se vayan creando. Sugiero que creéis un documento de word en la carpeta del Teams para registrar las versiones de este documento. Indicad la fecha de creación de cada versión.*
+> *El resultado de esta etapa es un texto enumeranado los problemas más manejables y describiendo sus características principales. También se puede crear un mapa mental con dichos problemas.*
 
 
 
-### Búsqueda de información científico-técnica sobre el reto
+### Caracterización de los componentes principales de cada problema manejable
 
-Los ambientólogos y ambientólogas suelen ser "expertos en generalidades". Este rasgo, que pudiera ser considerado como algo negativo, es un superpoder en un mundo lleno de expertos. Necesitamos generalistas que ayuden a ver el mundo con una mirada integradora y holística. Pero construir esta capacidad requiere mucho estudio y trabajo. Afortunadamente, la información especializada está disponible en internet. Además, hoy día, con la llegada de las IAs, esa información nos resulta más fácilmente digerible.
+Este segundo paso implica caracterizar cada uno de los problemas identificados anteriormente desde el punto de vista ecológico y social. Se trata de indicar qué elementos sociales y ecológicos participan en cada uno de los problemas "menores" descritos anteriormente.
 
-Esta etapa implica la búsqueda sistemática de información sobre el reto socioecológico asignado. Durará lo que dure el trabajo porque siempre hay información nueva que recopilar y cosas nuevas que aprender. Los miembros de cada grupo tendrán que buscar artículos científicos, informes, publicaciones de periódico, podcast de radio, etc. Todo lo que esté en sus manos para documentarse adecuadamente con relación al problema abordado. 
+Por ejemplo, si uno de los retos manejables fuera *Los conejos se comen los olivos*, los componentes ecológico y social serían:
+
++ Componentes ecológicos:
+  + Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
+  + En los últimos años, los cultivos de olivo se han extendido mucho y han reducido la superficie de pasto y de matorral.
++ Componentes sociales:
+  + Los agricultores ven peligrar su producción por los conejos. 
+  + Los ecologistas ponen de manfiesto el problema.
+  + La administración ambiental se encarga de tramitar las solicitudes de caza de conejos.
+
+
 
 > [!TIP] 
-> *El resultado de esta estapa es un conjunto de archivos de distinto tipo que contienen documentación relevante para nuestro trabajo. Sugiero que almacenéis esos documentos en una carpeta llamada "documentacion" dentro del OneDrive grupal. También es muy recomendable que alimentéis con estos documentos a la IA que estéis usando como asistente para este trabajo (yo recomiendo Notebook LM.*
+> *El resultado de esta etapa se incorporará al archivo de texto anterior o al mapa mental que vayáis elaborando.*
+
+
+
+### Identificación de obstáculos y oportunidades
+
+El último paso de esta fase implica asignar a cada una de las componentes anteriores uno o varios obstáculos y oportunidades. La idea es que seamos capaces de pensar en limitaciones para resolver el problema y también en oportunidades que surgen. Siguiendo con el ejemplo anterior del conejo, tendríamos lo siguiente
+
+- Componente ecológica: Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
+  - Obstáculos para resolver el problema:
+    - No es fácil buscar alternativa para que se alimenten los conejos.
+    - Los agricultores no aceptarán medidas que no impliquen reducir las poblaciones de conejos.
+  - Oportunidades:
+    - Quizás este problema sería una oportunidad para involucrar a los cazadores en la resolución de un problema ambiental.
+    - También puede ser una buena oportunidad para concienciar a la población de los problemas que genera la sustitución de hábitats naturales por cultivos.
+
+
+> [!TIP] 
+> *De nuevo el resultado de esta fase se incorpora al texto o al mapa mental elaborado anteriormente.*
+
+
+
+
 
 
 
