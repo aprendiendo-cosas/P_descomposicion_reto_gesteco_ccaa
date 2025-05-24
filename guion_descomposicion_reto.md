@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/regs/tags/2024_2025/imagenes/portada.png)
 
 
 
@@ -93,10 +93,10 @@ El último paso de esta fase implica asignar a cada una de las componentes anter
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
