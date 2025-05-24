@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/regs/tags/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/refs/tags/2024-2025/imagenes/portada.png)
 
 
 
@@ -93,7 +93,7 @@ El último paso de esta fase implica asignar a cada una de las componentes anter
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/P_descomposicion_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
